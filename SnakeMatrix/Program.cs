@@ -31,7 +31,6 @@ while (rowStart <= rowEnd && colStart <= colEnd)
     }
 
     rowStart += 1;
-    
     // V
     // V
     // V
@@ -49,7 +48,6 @@ while (rowStart <= rowEnd && colStart <= colEnd)
     }
     
     rowEnd -= 1;
-    
     // ^
     // ^
     // ^
