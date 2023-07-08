@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\Plus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarCase", "StarCase\StarCase.csproj", "{37C6EA25-D126-4B76-B53A-94F364F47823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max Sum", "Mini-Max Sum\Mini-Max Sum.csproj", "{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{37C6EA25-D126-4B76-B53A-94F364F47823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C6EA25-D126-4B76-B53A-94F364F47823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37C6EA25-D126-4B76-B53A-94F364F47823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
