@@ -16,6 +16,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarCase", "StarCase\StarCa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Max Sum", "Mini-Max Sum\Mini-Max Sum.csproj", "{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stop gninnipS My sdroW", "Stop gninnipS My sdroW\Stop gninnipS My sdroW.csproj", "{6091B3FC-A51A-43B5-A891-FFDD721386CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credit Card Mask", "Credit Card Mask\Credit Card Mask.csproj", "{DD2F09B6-0172-4637-A167-B2504E634943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Addition", "Binary Addition\Binary Addition.csproj", "{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +60,17 @@ Global
 		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF3AD196-DCA1-4073-8BE8-D02EBCE3F738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6091B3FC-A51A-43B5-A891-FFDD721386CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6091B3FC-A51A-43B5-A891-FFDD721386CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6091B3FC-A51A-43B5-A891-FFDD721386CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6091B3FC-A51A-43B5-A891-FFDD721386CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD2F09B6-0172-4637-A167-B2504E634943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD2F09B6-0172-4637-A167-B2504E634943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD2F09B6-0172-4637-A167-B2504E634943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD2F09B6-0172-4637-A167-B2504E634943}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
