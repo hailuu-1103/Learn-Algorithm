@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Credit Card Mask", "Credit 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Addition", "Binary Addition\Binary Addition.csproj", "{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape the knight", "Escape the knight\Escape the knight.csproj", "{21D40F48-F330-4749-AB78-8DC38E9D4967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent Bugger.", "Persistent Bugger\Persistent Bugger..csproj", "{4092031F-9E21-43AC-BE13-5ECE66E1E929}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFDBB1DD-0659-4D61-9EFC-26528F8C4445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D40F48-F330-4749-AB78-8DC38E9D4967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D40F48-F330-4749-AB78-8DC38E9D4967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D40F48-F330-4749-AB78-8DC38E9D4967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D40F48-F330-4749-AB78-8DC38E9D4967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
