@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent Bugger.", "Persi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{86BD1D68-ED0F-46D6-9613-0889B2237B77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Time Conversion", "Time Conversion\Time Conversion.csproj", "{82EF89A8-CEEB-4A8E-8B13-19F6B067AA83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -90,5 +92,9 @@ Global
 		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EF89A8-CEEB-4A8E-8B13-19F6B067AA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EF89A8-CEEB-4A8E-8B13-19F6B067AA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EF89A8-CEEB-4A8E-8B13-19F6B067AA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EF89A8-CEEB-4A8E-8B13-19F6B067AA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
