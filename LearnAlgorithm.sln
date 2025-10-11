@@ -26,6 +26,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Escape the knight", "Escape
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistent Bugger.", "Persistent Bugger\Persistent Bugger..csproj", "{4092031F-9E21-43AC-BE13-5ECE66E1E929}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Birthday Cake Candles", "Birthday Cake Candles\Birthday Cake Candles.csproj", "{86BD1D68-ED0F-46D6-9613-0889B2237B77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4092031F-9E21-43AC-BE13-5ECE66E1E929}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BD1D68-ED0F-46D6-9613-0889B2237B77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
