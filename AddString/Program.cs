@@ -15,8 +15,8 @@ string AddStrings(string num1, string num2)
         var n2 = j >= 0 ? num2[j] - '0' : 0;
 
         var sum = n1 + n2 + rem;
-        res += sum % 10;
-        rem =  sum / 10;
+        res += sum % 10; //3 3
+        rem =  sum / 10; // 1
 
         i--;
         j--;
